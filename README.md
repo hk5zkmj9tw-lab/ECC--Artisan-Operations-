@@ -1,3 +1,8 @@
+> **Artisan Operations fork:** Start with [the Artisan baseline](docs/ARTISAN-BASELINE.md).
+> For Health Check onboarding, use only the five skills selected in
+> [the profile](artisan/health-check-profile.json). Upstream defaults below are reference
+> material; they do not authorise bulk installation, production actions or access to company data.
+
 <p align="center">
   <img src="assets/hero.png" alt="ECC - the agent harness operating system" width="100%" />
 </p>

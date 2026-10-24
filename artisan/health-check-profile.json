@@ -1,0 +1,16 @@
+{
+  "name": "artisan-health-check",
+  "version": 1,
+  "upstreamCommit": "90606c8315ee09cafc303515c5f33024db6b9882",
+  "mode": "test-only",
+  "skills": [
+    "github-ops",
+    "backend-patterns",
+    "security-review",
+    "tdd-workflow",
+    "verification-loop"
+  ],
+  "productionWrites": false,
+  "customerDataInRepository": false,
+  "automaticSkillInstallation": false
+}
